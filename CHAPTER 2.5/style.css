@@ -1,0 +1,11 @@
+
+.word--red {
+    color: red;
+}
+.inner {
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    border: 5px solid black; 
+    border-radius: 25px;
+}
