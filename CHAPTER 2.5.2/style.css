@@ -1,0 +1,25 @@
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.menu__item {
+    display: inline-block;
+    color: black;
+    border: 1px solid black; 
+    justify-content: center;
+    margin: -2px;
+    padding: 10px;
+    text-decoration: none;
+}
+.faq {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.em {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.menu__item:hover {
+    background-color: rgb(255, 195, 65);
+}
